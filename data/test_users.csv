@@ -1,0 +1,11 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,address.zip,gender,phone,company.name,company.department.name,isActive
+Rohit,Prasad,35,"A-563 Rakshak Society","New Pune Road","Pune","Maharashtra",411001,male,9876543210,Infosys,Engineering,true
+Ananya,Sharma,22,"Flat 12, Green Acres","MG Road","Bangalore","Karnataka",560001,female,9123456780,TCS,Analytics,true
+Karan,Mehta,17,"123/A Shanti Nagar","Near Bus Stop","Indore","Madhya Pradesh",452001,male,9988776655,Student,NA,false
+Suresh,Patil,45,"B-88 Silver Tower","Link Road","Mumbai","Maharashtra",400001,male,9090909090,Reliance,Operations,true
+Meena,Joshi,62,"H.No 45, Old City","Temple Street","Ujjain","Madhya Pradesh",456001,female,9012345678,Retired,NA,false
+Akash,Verma,29,"Plot 77","Sector 21","Noida","Uttar Pradesh",201301,male,8899776655,Microsoft,Cloud,true
+Neha,Kulkarni,39,"Row House 9","Baner Road","Pune","Maharashtra",411045,female,9765432109,Startup,Product,true
+Vikas,Rao,52,"Apartment 3B","Park View","Hyderabad","Telangana",500081,male,9345678901,Amazon,Logistics,true
+Pooja,Malhotra,19,"Girls Hostel","University Campus","Delhi","Delhi",110007,female,9988001122,DU,Arts,true
+Amit,Singh,67,"Village House","Main Chowk","Varanasi","Uttar Pradesh",221001,male,8877665544,None,None,false
